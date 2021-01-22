@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/srinowduri/NodeJs-Learning#readme",
   "dependencies": {
+    "config": "^3.3.2",
     "express": "^4.17.1",
     "helmet": "^4.1.1",
     "morgan": "^1.10.0",
