@@ -1,7 +1,7 @@
 
 const express = require('express');
 const app = express();
-const port = 2000;
+const port = 1000;
 const mongoose = require('mongoose');
 const Student = require('./student-model/student');
 
